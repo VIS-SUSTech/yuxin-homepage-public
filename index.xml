@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuxin Ma&#39;s Homepage</title>
+    <link>https://mayuxin.me/</link>
+      <atom:link href="https://mayuxin.me/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuxin Ma&#39;s Homepage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 15:32:25 +0800</lastBuildDate>
+    <image>
+      <url>https://mayuxin.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuxin Ma&#39;s Homepage</title>
+      <link>https://mayuxin.me/</link>
+    </image>
+    
+    <item>
+      <title>招收可视化与可视分析方向学生与研究人员</title>
+      <link>https://mayuxin.me/post/2021-fall-hiring/</link>
+      <pubDate>Tue, 10 Aug 2021 15:32:25 +0800</pubDate>
+      <guid>https://mayuxin.me/post/2021-fall-hiring/</guid>
+      <description>&lt;h2 id=&#34;招生招聘内容&#34;&gt;&lt;strong&gt;招生（招聘）内容&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;南方科技大学计算机科学与工程系马昱欣老师课题组（DVA Lab）招收硕、博研究生，以及研究助理、访问学生。&lt;/p&gt;
+&lt;h2 id=&#34;导师个人简介&#34;&gt;&lt;strong&gt;导师个人简介&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;马昱欣，南方科技大学计算机科学与工程系副教授、研究员，于浙江大学计算机科学与技术学院获得学士与博士学位，曾任美国亚利桑那州立大学VADER实验室博士后。主要研究方向为数据可视化与可视分析，包括基于可视分析的可解释人工智能方法、高维数据和时空数据的可视分析等。目前发表论文20余篇，在IEEE TVCG、IEEE VIS、ACM CHI等国际重要期刊会议上发表多篇长文，曾获得ACM CHI 2022最佳论文提名、CVMJ期刊年度最佳论文提名等奖项，以及参与国内首部数据可视化专著的编写工作。目前担任中国计算机学会CADCG专委会执行委员、中国图象图形学学会可视化与可视分析专委会委员、Visual Informatics期刊青年编委，曾担任GAMES 2022会议海报共同主席，以及IEEE VIS、ChinaVis、CAD/Graphics等国内外会议的程序委员会委员。&lt;/p&gt;
+&lt;h2 id=&#34;可视化是什么&#34;&gt;&lt;strong&gt;可视化是什么？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;简而言之，可视化将数据以视觉形式呈现出来，以增强人们对数据内涵的认知，更好地完成分析任务。&lt;/p&gt;
+&lt;h2 id=&#34;为什么要做可视化&#34;&gt;&lt;strong&gt;为什么要做可视化？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;在大数据时代，以人工智能技术为代表的方法使人们能够在海量数据中寻找、洞察和预测个体与群体的行为。然而在很多复杂分析场景下，单纯使用自动分析方法已无法对问题进行有效建模。同时，人类用户希望能将机器智能与专家经验结合起来，以解决诸如商业决策、医疗诊断、情报分析等复杂开放性问题。因此，强大的智能数据分析能力和用于人机沟通的可视化展示，都是当今数据分析解决方案中必不可少的组成部分。&lt;/p&gt;
+&lt;h2 id=&#34;本课题组研究什么内容&#34;&gt;&lt;strong&gt;本课题组研究什么内容？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;可视化的理论、技术与实践，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;视觉感知与交互理论；&lt;/li&gt;
+&lt;li&gt;精准传神的可视化设计，以及用于支撑可视化的机器学习、图形渲染和人机交互技术；&lt;/li&gt;
+&lt;li&gt;面向应用领域的可视化框架。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果想深入了解可视化研究，推荐阅读以下文章：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;a href=&#34;https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658&#34; target=&#34;_blank&#34;&gt;What is visualization research? What should it be?&lt;/a&gt;” by &lt;a href=&#34;http://users.eecs.northwestern.edu/~jhullman/&#34; target=&#34;_blank&#34;&gt;Jessica Hullman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;“&lt;a href=&#34;https://mp.weixin.qq.com/s/oJS7DLQ7YTJr9GuG4L6CAQ&#34; target=&#34;_blank&#34;&gt;学习数据可视化，读哪本书比较好？&lt;/a&gt;” by &lt;a href=&#34;https://www.thepaper.cn/sparker_3178232&#34; target=&#34;_blank&#34;&gt;一头倭瓜精&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;加入后你能得到什么&#34;&gt;&lt;strong&gt;加入后，你能得到什么？&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;提高科研素养：参与或领导科研项目，学习如何发现问题、使用可视化方法解决问题，进而完成高质量的论文；&lt;/li&gt;
+&lt;li&gt;训练沟通表达：学习如何有效沟通，以及编写逻辑清晰的PPT和代码；&lt;/li&gt;
+&lt;li&gt;铺垫后续发展：如果你足够优秀，可推荐至国内外知名院校和企业实习、交流、深造，包括Virginia Tech、Arizona State University、浙江大学、复旦大学等国内外高校，以及华为、阿里巴巴等国内一流企业的可视化团队。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;如果你想加入我希望你能&#34;&gt;&lt;strong&gt;如果你想加入，我希望你能&amp;hellip;&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;品格端正，踏实做事，乐于沟通；&lt;/li&gt;
+&lt;li&gt;学习能力强，有自驱力；&lt;/li&gt;
+&lt;li&gt;对可视化、视觉设计、人机交互、人工智能等方向感兴趣；&lt;/li&gt;
+&lt;li&gt;拥有一定的编程和英语能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如有以下经历，可优先考虑：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有可视化、数据挖掘、机器学习、人机交互、视觉设计等方向研究经历；&lt;/li&gt;
+&lt;li&gt;有论文写作经历。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;怎样申请&#34;&gt;&lt;strong&gt;怎样申请？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;请将个人简历和附加材料（可选）发送至mayx_AT_sustech.edu.cn。附加材料包括（但不限于）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开源项目地址或代码；&lt;/li&gt;
+&lt;li&gt;可视化论文阅读笔记（例如&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945&#34; target=&#34;_blank&#34;&gt;IEEE TVCG&lt;/a&gt;、&lt;a href=&#34;http://ieeevis.org&#34; target=&#34;_blank&#34;&gt;VIS&lt;/a&gt;等期刊会议论文）；&lt;/li&gt;
+&lt;li&gt;英文学术写作片段（论文或课程作业均可）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ## **备注**
+南方科技大学与众多国际一流大学共同招收联合培养博士生，双校联合培养，双导师指导，毕业后颁发合作大学博士学位。申请境外联培博士项目请参考&lt;a href=&#34;http://cse.sustech.edu.cn/cn/recruit/index/id/171&#34; target=&#34;_blank&#34;&gt;往年招生通知&lt;/a&gt;准备相应材料。 --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
